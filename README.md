@@ -64,4 +64,4 @@ The Unity project is not included because its size exceeds GitHub's file size li
 
 You can download the Unity project here:
 
-- Google Drive: [<link>](https://drive.google.com/file/d/1QqNPiqn1Y02AmXDGzFT7EnGI-H-gP6Br/view?usp=sharing)
+- Google Drive: https://drive.google.com/file/d/1QqNPiqn1Y02AmXDGzFT7EnGI-H-gP6Br/view?usp=sharing
