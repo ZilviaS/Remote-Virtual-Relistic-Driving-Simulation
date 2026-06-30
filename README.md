@@ -29,34 +29,10 @@ creating a more natural driving experience.
 
 ## System Architecture
 
-Steering Wheel (Logitech G29)
-       │
-       ▼
-Unity (Vehicle Simulation)
-       │
-       ▼
-Command Transmission (via UDP)
-       │
-       ▼
- Raspberry Pi
-       │
-       ▼
-    Arduino
-       │
-       ▼
-    RC Car
+Steering Wheel (Logitech G29) => Unity (Vehicle Simulation) => Command Transmission (via UDP)
+=> Raspberry Pi => Arduino => RC Car
 
-Fisheye Camera
-       │
-       ▼
-    WebRTC
-       │
-       ▼
-    OpenCV
-(Image Undistortion)
-       │
-       ▼
- Unity Display
+Fisheye Camera => WebRTC => OpenCV (Image Undistortion) => Unity Display
 
 ## Technologies
 
